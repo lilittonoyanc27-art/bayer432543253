@@ -1,0 +1,6 @@
+{
+  "name": "HablaEspañol - Conversación y Palabras",
+  "description": "Իսպաներենի խոսակցական պրակտիկա հայերեն թարգմանություններով և բացատրություններով․ իրական իրավիճակներ «¿Qué harías tú?» և «Adivina la palabra» խաղ արհեստական բանականության գեներացիայով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
